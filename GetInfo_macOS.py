@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 author = 'b4d, baccic@gmail.com'
 version = '0.1, August 19, 2013'
