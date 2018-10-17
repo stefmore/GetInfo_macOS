@@ -1,6 +1,3 @@
-#coding=utf-8
-#!/usr/bin/env python
-
 author = 'b4d, baccic@gmail.com'
 version = '0.1, August 19, 2013'
 #version = '0.1b, May 1, 2006'
